@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% include navigate.html %}
+{% include navigation.html %}
 
 
 ## Welcome to GitHub Pages
