@@ -3,8 +3,6 @@ layout: default
 ---
 {% include navigate.html %}
 
-{% include_relative README.md %}
-
 
 ## Welcome to GitHub Pages
 
