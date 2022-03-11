@@ -1,2 +1,2 @@
-{% include navigation.html %}
+{% include navigate.html %}
 
