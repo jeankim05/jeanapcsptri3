@@ -1,7 +1,7 @@
 {% include navigation.html %}
 
 <div class="row justify-content-center" style="margin: 2%;">
-    <iframe height="1000px" width="700px" src="https://replit.com/@JeanKim4/jeanapcsptri3?lite=true"></iframe>
+    <iframe height="1000px" width="700px" src="https://replit.com/@JeanKim4/jeanapcsptri3?lite=true">
 </div>
 
 [Link to replit for code](https://replit.com/@JeanKim4/jeanapcsptri3)
