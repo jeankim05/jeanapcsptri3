@@ -1,8 +1,8 @@
 {% include navigation.html %}
 
-<div class="row justify-content-center" style="margin: 2%;">
+
     <iframe height="1000px" width="700px" src="https://replit.com/@JeanKim4/jeanapcsptri3?lite=true#menu.py">
-</div>
+
 
 [Link to replit for code](https://replit.com/@JeanKim4/jeanapcsptri3)
 //
