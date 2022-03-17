@@ -1,13 +1,13 @@
 {% include navigation.html %}
 
-
-    <iframe height="1000px" width="700px" src="https://replit.com/@JeanKim4/jeanapcsptri3?lite=true#menu.py">
+<iframe height="1000px" width="700px" src="https://replit.com/@JeanKim4/jeanapcsptri3?lite=true#menu.py">
 
 
 [Link to replit for code](https://replit.com/@JeanKim4/jeanapcsptri3)
-//
+
 [Link to github repository](https://github.com/jeankim05/jeanapcsptri3/tree/main)
-```
+
+``` python
 import shipanimation
 import faceanimation
 import swap
