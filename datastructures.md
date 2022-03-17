@@ -5,10 +5,9 @@
         <span class="fs-4">Replit</span>
     </header>
     <div class="row justify-content-center" style="margin: 10%;">
-        <iframe height="800px" width="100%" src="https://repl.it/@JeanKim4/jeanapcsptri3?lite=true"></iframe>
+        <iframe height="800px" width="100%" src="https://replit.com/@JeanKim4/jeanapcsptri3"></iframe>
     </div>
 </div>
-
 
 [Link to replit for code](https://replit.com/@JeanKim4/jeanapcsptri3)
 //
