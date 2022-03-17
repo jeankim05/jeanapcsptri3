@@ -1,12 +1,7 @@
 {% include navigation.html %}
 
-<div class="container py-4">
-    <header class="pb-3 mb-4 border-bottom border-primary text-dark">
-        <span class="fs-4">Replit</span>
-    </header>
-    <div class="row justify-content-center" style="margin: 10%;">
-        <iframe height="800px" width="100%" src="https://replit.com/@JeanKim4/jeanapcsptri3lite=true"></iframe>
-    </div>
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" width="700px" src="https://replit.com/@JeanKim4/jeanapcsptri3?lite=true%22%3E#menu.py"></iframe>
 </div>
 
 [Link to replit for code](https://replit.com/@JeanKim4/jeanapcsptri3)
