@@ -1,4 +1,3 @@
-#prefuncy.py
 import time
 import os
 
@@ -6,7 +5,6 @@ Color34 = "\u001b[34m"
 Color37 = "\u001b[37m"
 
 
-# As you can see, its not very optimal 
 def ship1():
     print("    |\ ")
     print("    |/ ")

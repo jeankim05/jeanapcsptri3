@@ -1,17 +1,16 @@
 import time
 import os
 
-# As you can see, its not very optimal 
-def smile1():
+def face1():
     print(" _______ ")
-    print(" | - - | ")
+    print(" | \ / | ")
     print(" |     | ")
-    print(" |     | ")
-    print(" | \_/ |  ")
+    print(" |  _  | ")
+    print(" | / \ |  ")
     print(" |_____| ")
 
 
-def smile2():
+def face2():
     print(" _______ ")
     print(" | - - | ")
     print(" |     | ")
@@ -19,19 +18,19 @@ def smile2():
     print(" | ___ |  ")
     print(" |_____| ")
 
-def smile3():
+def face3():
     print(" _______ ")
-    print(" | \ / | ")
+    print(" | - - | ")
     print(" |     | ")
-    print(" |  _  | ")
-    print(" | / \ |  ")
+    print(" |     | ")
+    print(" | \_/ |  ")
     print(" |_____| ")
   
 if __name__ == "__main__":
   time.sleep(.1)
-  smile1()
+  face1()
   time.sleep(.5)
-  smile2()
+  face2()
   time.sleep(.5)
-  smile3()
+  face3()
   time.sleep(.5)

@@ -1,18 +1,18 @@
-import shipanimation
-import faceanimation
-import swap
-import keypad
-import tree
+import week0.shipanimation
+import week0.faceanimation
+import week0.swap
+import week0.keypad
+import week0.tree
 
 main_menu = [
-    ["Swap", "swap.py"],
-    ["Keypad", "keypad.py"],
-    ["Tree", "tree.py"]
+    ["Swap", "week0/swap.py"],
+    ["Keypad", "week0/keypad.py"],
+    ["Tree", "week0/tree.py"]
 ]
 
 animationsub_menu = [
-    ["Ship Animation", "shipanimation.py"],
-    ["Face Animation", "faceanimation.py"]
+    ["Ship Animation", "week0/shipanimation.py"],
+    ["Face Animation", "week0/faceanimation.py"]
 ]
 
 border = "=" * 25
