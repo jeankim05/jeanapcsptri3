@@ -1,10 +1,11 @@
 {% include navigation.html %}
 
-<iframe height="1000px" width="100%" src="https://replit.com/@JeanKim4/jeanapcsptri3?lite=true"> </iframe>
-
 [Link to replit for code](https://replit.com/@JeanKim4/jeanapcsptri3)
 
 [Link to github repository](https://github.com/jeankim05/jeanapcsptri3/tree/main)
+
+
+<iframe height="1000px" width="100%" src="https://replit.com/@JeanKim4/jeanapcsptri3?lite=true"> </iframe>
 
 ``` python
 import shipanimation
