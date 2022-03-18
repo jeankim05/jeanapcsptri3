@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-<iframe frameborder="0" height="1000px" width="100%" src="https://replit.com/@JeanKim4/jeanapcsptri3?lite=true#menu.py">
+<iframe frameborder="0" height="1000px" width="100%" src="https://replit.com/@JeanKim4/jeanapcsptri3?lite=true">
     
 <iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@jmort1021/pagespython?lite=true#src/menuy.py">
 
