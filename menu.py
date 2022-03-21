@@ -8,7 +8,7 @@ import week1.fibonacci
 
 main_menu = [
     ["Swap", week0.swap.swap],
-    ["Keypad", week0.keypad.keypad],
+    ["Keypad", week0.keypad.main],
     ["Tree", week0.tree.tree]
 ]
 
