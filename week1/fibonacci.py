@@ -4,12 +4,12 @@ def fibonaccisequence(n):
    else:
        return(fibonaccisequence(n-1) + fibonaccisequence(n-2))
 def display():
-  terms = int(input("How many terms of the sequence do you want?"))
+  terms = int(input("How many terms do you want in your sequence?"))
   try:
-    print("Fibonacci sequence:")
+    print("Complete Fibonacci Sequence:")
     for i in range(terms):
       print(fibonaccisequence(i))
   except:
     terms <= 0
-    print("Plese enter a positive integer")
+    print("Please enter a positive number!")
   

@@ -31,24 +31,24 @@ def print_data(n):
     print(InfoDb[n].get("TopClasses")[0])
     print()
   
-def for_loop():
+def display_for_loop():
     for n in range(len(InfoDb)):
         print_data(n)
-def while_loop(n):
+def display_while_loop(n):
     while n < len(InfoDb):
         print_data(n)
         n += 1
     return
-def recursive_loop(n):
+def display_recursive_loop(n):
     if n < len(InfoDb):
         print_data(n)
-        recursive_loop(n + 1)
+        display_recursive_loop(n + 1)
     return
 
 def main():
   print("For loop")
-  for_loop()
+  display_for_loop()
   print("While loop")
-  while_loop(0)
+  display_while_loop(0)
   print("Recursive loop")
-  recursive_loop(0)
+  display_recursive_loop(0)
