@@ -26,7 +26,7 @@ def face3():
     print(" | \_/ |  ")
     print(" |_____| ")
   
-if __name__ == "__main__":
+def main():
   time.sleep(.1)
   face1()
   time.sleep(.5)
