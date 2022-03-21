@@ -4,5 +4,7 @@ During this trimester of Data Structures 1, I will be using this github reposito
 
 ### Review Tickets
 [Week 0 Review Ticket Github Pages](https://github.com/jeankim05/tri3teambigmac/issues/15) 
-\\
+
+//
+
 [Week 1 Review Ticket Lists and Loops](https://github.com/jeankim05/jeanapcsptri3/issues/2)
