@@ -7,9 +7,9 @@ import week1.infodb
 import week1.fibonacci
 
 main_menu = [
-    ["Swap", week0.swap.swap],
+    ["Swap", week0.swap.main],
     ["Keypad", week0.keypad.main],
-    ["Tree", week0.tree.tree]
+    ["Tree", week0.tree.main]
 ]
 
 animationsub_menu = [
@@ -18,8 +18,8 @@ animationsub_menu = [
 ]
 
 landlsub_menu = [
-    ["InfoDB", week1.infodb.main],
-    ["Fibonacci", week1.fibonacci.display]
+    ["InfoDB", week1.infodb.menu],
+    ["Fibonacci", week1.fibonacci.menu]
 ]
 
 border = "=" * 25

@@ -45,7 +45,7 @@ def display_recursive_loop(n):
         display_recursive_loop(n + 1)
     return
 
-def main():
+def menu():
   print("For loop")
   display_for_loop()
   print("While loop")

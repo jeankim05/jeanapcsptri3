@@ -3,7 +3,7 @@ def fibonaccisequence(n):
        return n
    else:
        return(fibonaccisequence(n-1) + fibonaccisequence(n-2))
-def display():
+def menu():
   terms = int(input("How many terms do you want in your sequence?"))
   try:
     print("Complete Fibonacci Sequence:")

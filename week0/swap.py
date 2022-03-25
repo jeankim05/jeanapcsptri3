@@ -8,5 +8,5 @@ def swap():
     print(f"Your first number is {num1}")
     print(f"Your second number is {num2}")
 
-if __name__ == "__main__":
+def main():
   swap()
