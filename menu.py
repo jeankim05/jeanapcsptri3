@@ -8,6 +8,7 @@ import week1.fibonacci
 import week2.factorial
 import week2.mathfunction
 import week2.palindrome
+import week2.factor
 
 main_menu = [
     ["Swap", week0.swap.main],
@@ -28,7 +29,8 @@ landlsub_menu = [
 mathsub_menu = [
     ["Factorial", week2.factorial.menu],
     ["Great Common Denominator Math Function", week2.mathfunction.greatestcommondenominator],
-    ["Palindrome", week2.palindrome.menu]
+    ["Palindrome", week2.palindrome.menu],
+    ["Factors", week2.factor.factorsmenu]
 ]
 
 border = "=" * 25
