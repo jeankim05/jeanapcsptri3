@@ -12,11 +12,11 @@ class Palindrome:
         else:
             return "is not a palindrome"
 
-test_cases = ["A man, a plan, a canal -- Panama", "12321", "definitelynotthisone", "racecar", "jeankim"]
+test_strings = ["A man, a plan, a canal -- Panama", "12321", "definitelynotthisone", "racecar", "jeankim"]
 
 def menu():
     try:
-        for n in test_cases:
+        for n in test_strings:
             palindrome = Palindrome(word=n)
             print(n, palindrome())
     except:
