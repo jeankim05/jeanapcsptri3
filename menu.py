@@ -5,6 +5,9 @@ import week0.keypad
 import week0.tree
 import week1.infodb
 import week1.fibonacci
+import week2.factorial
+import week2.mathfunction
+import week2.palindrome
 
 main_menu = [
     ["Swap", week0.swap.main],
@@ -20,6 +23,12 @@ animationsub_menu = [
 landlsub_menu = [
     ["InfoDB", week1.infodb.menu],
     ["Fibonacci", week1.fibonacci.menu]
+]
+
+mathsub_menu = [
+    ["Factorial", week2.factorial.menu],
+    ["Great Common Denominator Math Function", week2.mathfunction.greatestcommondenominator],
+    ["Palindrome", week2.palindrome.menu]
 ]
 
 border = "=" * 25
@@ -62,11 +71,16 @@ def landlsubmenu():
     title = "Function Submenu" + banner
     buildMenu(title, landlsub_menu)
 
+def mathsubmenu():
+    title = "Function Submenu" + banner
+    buildMenu(title, mathsub_menu)
+
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
     menu_list.append(["Animations", animationsubmenu])
     menu_list.append(["Lists and Loops", landlsubmenu])
+    menu_list.append(["Math", mathsubmenu])
     buildMenu(title, menu_list)
 
 
