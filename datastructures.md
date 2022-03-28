@@ -73,7 +73,7 @@ if __name__ == "__main__":
     menu()
    ```
 
-## Documentation of Code
+## Documentation of Code Week 1
 * info.db is the file with all the loops. There are three types of loops in this particular page: recursion, for loops, and while loops
 * This is what displays the actual data which are appended to the list
 * Code for calling these loop functions are shown down below:
@@ -87,3 +87,7 @@ if __name__ == "__main__":
 
 ![image](https://user-images.githubusercontent.com/60992581/159367348-31597a0e-9571-4281-862e-57d450a30680.png)
 
+## Documentation of Code Week 2
+![image](https://user-images.githubusercontent.com/60992581/160324691-8a921a93-5523-4ec1-b08a-b92a84610516.png)
+* Line 4 implements call so that it can be used in the menu
+* Line 16 shows an error because the user may add a negative number which will not work with factorial
