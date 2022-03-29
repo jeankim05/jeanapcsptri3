@@ -28,7 +28,7 @@ landlsub_menu = [
 
 mathsub_menu = [
     ["Factorial", week2.factorial.menu],
-    ["Great Common Denominator Math Function", week2.mathfunction.greatestcommondenominator],
+    ["Great Common Factor Math Function", week2.mathfunction.greatestcommondenominator],
     ["Palindrome", week2.palindrome.menu],
     ["Factors", week2.factor.factorsmenu]
 ]

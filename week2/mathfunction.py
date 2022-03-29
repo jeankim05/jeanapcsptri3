@@ -42,12 +42,12 @@ class greatestcommondenominator:
            
 def greatestcommondenominator():
   
-    a = int(input("Enter the first number to find the greatest common denominator: "))
+    a = int(input("Enter the first number to find the greatest common factor: "))
   
-    b = int(input("Enter a second number to find the greatest common denominator: "))
+    b = int(input("Enter a second number to find the greatest common factor: ")) 
   
     greatestcommondenominator = findthegreatestcommondenominator(a, b)
   
-    print("The greatest common denominator of {0} and {1} is: {2}".format(a, b, greatestcommondenominator))
+    print("The greatest common factor of {0} and {1} is: {2}".format(a, b, greatestcommondenominator))
   
     print()
