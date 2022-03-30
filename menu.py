@@ -9,6 +9,7 @@ import week2.factorial
 import week2.mathfunction
 import week2.palindrome
 import week2.factor
+import crossover.lcm
 
 main_menu = [
     ["Swap", week0.swap.main],
@@ -30,7 +31,8 @@ mathsub_menu = [
     ["Factorial", week2.factorial.menu],
     ["Great Common Factor Math Function", week2.mathfunction.greatestcommondenominator],
     ["Palindrome", week2.palindrome.menu],
-    ["Factors", week2.factor.factorsmenu]
+    ["Factors", week2.factor.factorsmenu],
+    ["Least Common Multiple", crossover.lcm.menu]
 ]
 
 border = "=" * 25
