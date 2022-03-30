@@ -4,8 +4,7 @@
 
 [Link to github repository](https://github.com/jeankim05/jeanapcsptri3/tree/main)
 
-
-<iframe height="1000px" width="100%" src="https://replit.com/@JeanKim4/jeanapcsptri3?lite=true"> </iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@JeanKim4/jeanapcsptri3?embed=true" > 
 
 ``` python
 import shipanimation
