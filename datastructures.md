@@ -4,7 +4,6 @@
 
 [Link to github repository](https://github.com/jeankim05/jeanapcsptri3/tree/main)
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@JeanKim4/jeanapcsptri3?embed=true" > 
     
     
 
@@ -92,3 +91,6 @@ if __name__ == "__main__":
 ![image](https://user-images.githubusercontent.com/60992581/160324691-8a921a93-5523-4ec1-b08a-b92a84610516.png)
 * Line 4 implements call so that it can be used in the menu
 * Line 16 shows an error because the user may add a negative number which will not work with factorial
+
+
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@JeanKim4/jeanapcsptri3?embed=true"> 
