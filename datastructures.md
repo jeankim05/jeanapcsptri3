@@ -94,6 +94,6 @@ if __name__ == "__main__":
 
 
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@JeanKim4/jeanapcsptri3?embed=true" > 
-    
-
+*
+*
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@IsaacLe2/Tri3Repo?embed=true" > 
