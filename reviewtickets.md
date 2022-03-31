@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## Review Tickets
 
 [Week 0 Review Ticket Github Pages](https://github.com/jeankim05/tri3teambigmac/issues/15)
