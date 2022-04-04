@@ -9,8 +9,8 @@ import week2.factorial
 import week2.mathfunction
 import week2.palindrome
 import week2.factor
-import crossover.lcm
-import crossover.prime
+import week3crossover.lcm
+import week3crossover.prime
 
 main_menu = [
     ["Swap", week0.swap.main],
@@ -33,8 +33,8 @@ mathsub_menu = [
     ["Great Common Factor Math Function", week2.mathfunction.greatestcommondenominator],
     ["Palindrome", week2.palindrome.menu],
     ["Factors", week2.factor.factorsmenu],
-    ["Least Common Multiple", crossover.lcm.menu],
-    ["Find range of primes", crossover.prime.menu]
+    ["Least Common Multiple", week3crossover.lcm.menu],
+    ["Find range of primes", week3crossover.prime.menu]
 ]
 
 border = "=" * 25
