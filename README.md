@@ -10,3 +10,6 @@ During this trimester of Data Structures 1, I will be using this github reposito
 
 
 [Week 2 Review Ticket Classy Functions](https://github.com/jeankim05/jeanapcsptri3/issues/4)
+
+
+[Week 3 Video Link](https://www.youtube.com/watch?v=w_IIscVg-Fw)
