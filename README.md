@@ -13,3 +13,6 @@ During this trimester of Data Structures 1, I will be using this github reposito
 
 
 [Week 3 Video Link](https://www.youtube.com/watch?v=w_IIscVg-Fw)
+
+
+[Week 3 Review Ticket Algorithmic Final](https://github.com/jeankim05/jeanapcsptri3/issues/5)
