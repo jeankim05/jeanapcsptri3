@@ -1,11 +1,9 @@
 {% include navigation.html %}
 
 Create Task Details:
-Sports Quiz
+Food Quiz
 
-The sports Quiz page is the practice create task. It's main goal is to quiz users on different sports as related to countries so that users can remember which countries offer which sports and information.
-
-This page will be integrated into our website as a PBL feature for now. The users will see a page where they can answer multiple-choice questions and receive their score upon submitting the quiz.
+The Food Quiz page is the practice create task. It's main goal is to quiz users on different foods  as related to countries so that users can remember which countries offer which cullinary dishes and information.
 
 Program Purpose: Create a page that quizzes users based on different foods and countries
 
@@ -25,7 +23,7 @@ Selection: Adds to score in case of a correct answer
 
 Iteration: Program loops for every question
 
-Two Code Snippets:
+Code Snippets:
 
 const quizContainer = document.getElementById('quiz'); const resultsContainer = document.getElementById('results'); const submitButton = document.getElementById('submit'); const myQuestions = [ ]
 
