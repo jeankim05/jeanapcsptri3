@@ -19,3 +19,6 @@ During this trimester of Data Structures 1, I will be using this github reposito
 
 
 [Week 4 Review Ticket Accounts and Logins with Create Task](https://github.com/jeankim05/jeanapcsptri3/issues/6)
+
+
+[Week 5 Review Ticket Proctored MCQ and Study Plan with Corrections](https://github.com/jeankim05/jeanapcsptri3/issues/7)
