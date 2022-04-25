@@ -1,5 +1,58 @@
 {% include navigation.html %}
 
+
+### **Quiz 1 Corrections (46/50)**
+
+
+**Question 20**
+<img width="833" alt="image" src="https://user-images.githubusercontent.com/60992581/164951527-38912d32-dbd7-4ff0-adb9-5cc03b938491.png">
+- I got this question wrong because I didn't realize that if both lists are sorted separately then combined, the new list that is combined will not be sorted. Therefore, option A is correct because both lists are combined and then sorted and duplicates removed.
+
+
+**Question 39**
+<img width="808" alt="image" src="https://user-images.githubusercontent.com/60992581/164951575-921d3af9-cc1e-45a7-9087-ea7aaaa5e9db.png">
+- I got this question wrong because I didn't read the question carefully. It said that Each process can run only run process at a time, which means that multiple processes cannot run together. Therefore, it would be most efficient to have the longest process to run on its own while the other two processes run together, making the shortest possible time 80 seconds. Option A is incorrect and option c is correct. 
+
+
+**Question 40**
+<img width="811" alt="image" src="https://user-images.githubusercontent.com/60992581/164951637-4b1304ee-4777-4e17-b24f-21173b0b6b02.png">
+- I misunderstood the answer choice and got this question wrong. If all city schools had requirements for hardware and software, then the students would be exposed to digital electronics and the digital divide reduced. However, choice C, which states that all forms should be on the website, would contribute to the digital divide because not all citizens have access to devices that can access the website. 
+
+
+**Question 50**
+<img width="827" alt="image" src="https://user-images.githubusercontent.com/60992581/164951677-a170e4ce-0af6-48b8-a799-809da3008cc5.png">
+- I got confused between lossy and lossless transformation. Lossless compressions means that quality remains the same. Lossy compression results in permanent loss of data. Option A is incorrect because there is a loss of information. Choice C is correct because it states that it is lossless when the original version may be restored.
+
+
+### **Quiz 2 Corrections (44/50)**
+
+
+**Question 8**
+<img width="819" alt="image" src="https://user-images.githubusercontent.com/60992581/164957428-552b0dcc-41d2-40be-9956-ac4427d16ee0.png">
+- I got this question wrong because I thought that open source software had to be updated with the approval or knowledge of the original developers, but that is false. Therefore, the correct answer is C because developers are not required to support users.
+
+**Question 12**
+<img width="826" alt="image" src="https://user-images.githubusercontent.com/60992581/164957764-23785295-703b-4d4e-a069-120aa2009498.png">
+- Because converting measurements are widely known through multiple cultures and people, it would not be the best benefit of crowdsourcing. However, an application that allows users to view descriptions and photographs of local landmarks would be a benefit since people would be exposed to multiple cultures. Therefore, answer D is correct.
+
+**Question 24**
+<img width="826" alt="image" src="https://user-images.githubusercontent.com/60992581/164957862-ee275afa-38af-49aa-b406-d6b0ad082073.png">
+- I originally put answer A because I thought that redundancy allows messages to be transmitted with lower packets. However, redundancy actually allows messages to be sent even with failed networks or connections, so answer choice C is correct.
+
+**Question 30**
+<img width="818" alt="image" src="https://user-images.githubusercontent.com/60992581/164957906-6ff919bd-f7b1-4771-9766-7aabd1dfb99f.png">
+- Indigo's binary RGB triplet is 01001011, 00000000, 10000010, so answer choice C is correct. This translates to 75, 0, 130.
+
+**Question 35**
+<img width="807" alt="image" src="https://user-images.githubusercontent.com/60992581/164957942-dfe607e5-9152-4882-9c56-e3185a75ee37.png">
+- Answer D is incorrect since rounding errors occur mostly in decimal operations, not integer operations. The error most likely occurred because the values are outside of the representable values, so choice C is best.
+
+**Question 50**
+<img width="811" alt="image" src="https://user-images.githubusercontent.com/60992581/164957976-5a49e006-1471-411e-8a98-153decae8263.png">
+- A is incorrect since all the other options need to be considered. I is correct since average can be calculated from the total points calculation. The average increase in total points can also be determined too with the total points calculation vs midterm + final exam score. Lastly, the proportion of students can also be determined since the data is in all of the students. Therefore, choice D is best.
+
+
+
 ## Table of Contents
 - [Big Idea 1]()
 - [Big Idea 2]()
