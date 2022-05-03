@@ -18,3 +18,10 @@
 
 
 [Week 4 Review Ticket Accounts and Logins with Create Task](https://github.com/jeankim05/jeanapcsptri3/issues/6)
+
+
+[Week 5 Review Ticket Proctored MCQ and Study Plan](https://github.com/jeankim05/jeanapcsptri3/issues/7)
+
+
+[Week 6 Review Ticket Proctored MCQ Test Week 2 and Create Task Review](https://github.com/jeankim05/jeanapcsptri3/issues/8)
+
