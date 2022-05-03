@@ -1,5 +1,13 @@
 {% include navigation.html %}
 
+**Crossover Comments for Create Task by Isaac Le**
+- I like the concept and the purpose of the program calculating
+- Video has all the requirements that collegeboard asks for
+- Inclides a list that stores the different number inputs for your grade
+- Calls back to the list multiple times in order to input different subjects/grades
+- Create task is very interesting and can be very useful to people as they can figure out what they need to do in the class in order to achieve the grade that they desire
+
+
 Create Task Details:
 Food Quiz
 
