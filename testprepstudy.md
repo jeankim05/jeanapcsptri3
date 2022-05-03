@@ -6,6 +6,7 @@
 <img width="855" alt="image" src="https://user-images.githubusercontent.com/60992581/166563939-4a18642f-9785-46a1-94c0-dc51e00a5852.png">
 - I got this question wrong beause I didn't realize that choice B changes the value of the variable second. It is originally assigned to 100, but gets changed to 200 later on because it is set to temp. Choice A is the best answer because the variable first is initially assigned the value 100 and the variable second is initially assigned the value 200. Next, temp is assigned the value of first, which is 100. Next, second is assigned the value of temp, which is 100. Last, first is assigned the value of second, which is 100. After execution, both first and second have the value 100.
 
+
 ### **Quiz 1 Corrections (46/50)**
 
 
