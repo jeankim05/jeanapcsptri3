@@ -1,5 +1,27 @@
 {% include navigation.html %}
 
+### **Quiz 4 Corrections (46/50)**
+
+**Question 18**
+<img width="827" alt="image" src="https://user-images.githubusercontent.com/60992581/167220588-e522de35-5573-4ea6-b5b0-ce3fddaf6567.png">
+- I got this wrong because public key encryption enables parties to initiate secure communications through an open medium, such as the Internet, in which there might be eavesdroppers. Choice B is incorrect because a public key is not used to encrypt messages, while a private key is used to decrypt messages. Public key encryption is still considered secure even if a public key is obtained by an unauthorized individual.
+
+
+**Question 43**
+<img width="825" alt="image" src="https://user-images.githubusercontent.com/60992581/167221116-c51ba942-b554-42ba-a45c-d2c9423066d6.png">
+- Choice A is incorrect because The Internet uses standardized, open (nonproprietary) communication protocols. "The Internet is designed to scale to support an increasing number of users" is true because it is scalable.
+
+
+**Question 45**
+<img width="826" alt="image" src="https://user-images.githubusercontent.com/60992581/167221265-fc1c6b96-ad07-4f2a-b614-8af3bacc6304.png">
+- Choice C is the best answer. Code segment 1 displays more steps because the operations in within the loop is constant.
+
+
+**Question 49**
+<img width="835" alt="image" src="https://user-images.githubusercontent.com/60992581/167221671-33199702-b9ac-420e-af17-b792d6f8a325.png">
+- I thought that the best answer would be 80 for both exam and presentation, but that is incorrect since that would produce a letter grade of B. However, choice C is the best because 80 and 60 would result in letter grade C.
+
+
 ### **Quiz 3 Corrections (49/50)**
 
 **Question 50**
